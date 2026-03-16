@@ -1,0 +1,17 @@
+HR-Attrition-Analysis
+│
+├── dataset
+│   └── hr_attrition_dataset_1000.csv
+│
+├── sql
+│   ├── create_table.sql
+│   ├── data_import.sql
+│   └── analysis_queries.sql
+│
+├── dashboard
+│   └── HR_Attrition_Dashboard.pbix
+│
+├── images
+│   └── dashboard_preview.png
+│
+└── README.md
