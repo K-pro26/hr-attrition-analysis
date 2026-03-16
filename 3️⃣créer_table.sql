@@ -14,3 +14,7 @@ education_level VARCHAR(20),
 marital_status VARCHAR(20),
 attrition VARCHAR(10)
 );
+
+data_import.sql
+\copy employees FROM 'hr_attrition_dataset_1000.csv' CSV HEADER;
+
